@@ -13,9 +13,12 @@ Las tareas incluyen:
 > La prueba con la introducción esta diseñada para durar 45 minutos.
 
 **Primer Customer Journey**
+Antes de realizar la prueba se creo el primero customer journey analizando la funcionabilidad desde el primer contacto del usuario que finaliza
+algún proceso en concreto(crear meta de ahorro).
 ![CJ1](https://i.imgur.com/V1Uo4DD.jpg)
 
 **Evolución Customer Journey después de Pruebas**
+Después de realizar las primeras 5 pruebas se modifico el customer journey.
 ![CJ2](https://i.imgur.com/mdIodns.jpg)
 
 ### Pruebas con Usuario
