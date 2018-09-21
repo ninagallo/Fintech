@@ -7,4 +7,5 @@
 ##### Pruebas con Usuario
 **Tipo de Usario**
 *-Que tenga cuenta en alguna institución financiera*
+
 *-Que cuente con dispositivo iOS*
