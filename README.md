@@ -15,6 +15,8 @@ Las tareas incluyen:
 ##### Videos de pruebas
 https://www.useloom.com/share/a1bfb20013ff4ec8beb3da1b38a060e4
 
+https://www.useloom.com/share/0bc8f0511c9a462e948a8688bcd2f9f7
+
 **Primer Customer Journey**
 
 Antes de realizar la prueba se creo el primero customer journey analizando la funcionabilidad desde el primer contacto del usuario que finaliza
