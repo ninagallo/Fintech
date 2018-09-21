@@ -12,6 +12,9 @@ Las tareas incluyen:
 
 > La prueba con la introducción esta diseñada para durar 45 minutos.
 
+##### Videos de pruebas
+https://www.useloom.com/share/a1bfb20013ff4ec8beb3da1b38a060e4
+
 **Primer Customer Journey**
 
 Antes de realizar la prueba se creo el primero customer journey analizando la funcionabilidad desde el primer contacto del usuario que finaliza
