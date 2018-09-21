@@ -1,5 +1,5 @@
 ## Rediseño App Tus Finanzas
-##### Pruebas de Usabilidad
+### Pruebas de Usabilidad
 **Primer Customer Journey**
 ![CJ1](https://i.imgur.com/V1Uo4DD.jpg)
 **Evolución Customer Journey después de Pruebas**
