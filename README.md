@@ -31,10 +31,19 @@ Después de realizar las primeras 5 pruebas se modifico el customer journey.
 ### Pruebas con Usuario
 **Tipología De Usuario Para La Prueba**
 
-*-Que este en un rango de edad de 22 a 65 años*
+*-Que este en un rango de edad de 22 a 55 años*
 
 *-Que tenga cuenta en alguna institución financiera*
 
 *-Que cuenten con dispositivo iOS*
 
 *-Que cuenten con algún tipo de ingreso mensual(puede ser salario, apoyo familiar, pensión)*
+
+### Propuesta de valor
+Recompensar cuando el usuario llegue a su meta.
+
+### Prototipo App - Langing page
+
+http://tusfin.pagedemo.co/
+
+https://marvelapp.com/9h25d57
